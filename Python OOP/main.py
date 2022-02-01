@@ -57,10 +57,10 @@ player2 = PlayerCharacter('pratik')
 # Every objects are placed on different location
 
 
-# self : self is just referencing to the instance(object) of class, so player1 is just reference to the self that way it makes dynamic, so player1.name is nothing but a self.name
+# self : self is just referencing to the instance(object) of class, so player1 is just reference to the self that way it makes dynamic, so player1.name is nothing but a self.name, it works like an variable, Every new object created it vary his values.
 
 # ---------Attributes and methods--------------
-# print(help(list))  # it reurn the bluprint of the class
+# print(help(list))  # it return the bluprint of the class
 
 # Attributes are the piece of data that are dynamic to the object, object is unique to the attributes
 
